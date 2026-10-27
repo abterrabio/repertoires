@@ -7,3 +7,4 @@ These are demo datasets for use with the freely available AirrSeqViewer tool, av
 | Dataset | Species | Chain | Notes |
 |---|---|---|---|
 | [rabbit_hc_component_demo.airr.tsv](./rabbit_hc_component_demo.airr.tsv) | Rabbit | IGH | Single clone cluster |
+| [llama_vhh_timeseries.airr.tsv](./llama_vhh_timeseries.airr.tsv) | Llama | IGH | Immunization PBMC time series of HCAbs |
